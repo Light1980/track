@@ -105,12 +105,12 @@
         },
         "text": {
           "headline": "University",
-          "text": "NO DESCRIPTION."
+          "text": "NO DESCRIPTION YET."
         }
       },
       {
         "media": {
-          "url": "/assets/images/img_403.jpg",
+          "url": "http://oe0jlt8ki.bkt.clouddn.com/img_403.jpg",
           "caption": "WEIRD"
         },
         "start_date": {
@@ -118,7 +118,7 @@
         },
         "text": {
           "headline": "Current",
-          "text": "<p style='text-align:center;'>我还困在这里<br><br>感受到时间从TA们身上<br><br>流过的痕迹<br><br>但我还困在这里<br><br>无法挽回任何人</p>"
+          "text": "<p style='text-align:center;'>我还困在这里<br><br>感受到时间从所有人身上<br><br>流过的痕迹<br><br>但我不得不困在这里<br><br>无法挽回任何人</p>"
         }
       }
 

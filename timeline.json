@@ -105,14 +105,13 @@
         },
         "text": {
           "headline": "University",
-          "text": "NO TEXT"
+          "text": "NO DESCRIPTION."
         }
       },
       {
         "media": {
-          "url": "",
-          "caption": "宁波",
-          "credit": "佚名拍摄"
+          "url": "/assets/images/img_403.jpg",
+          "caption": "WEIRD"
         },
         "start_date": {
           "year": "2018"
